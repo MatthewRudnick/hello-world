@@ -1,2 +1,5 @@
 # hello-world
-Sample Repository
+
+Hi everybody:
+
+I am new to GitHub.
